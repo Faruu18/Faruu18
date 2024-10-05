@@ -1,6 +1,8 @@
 <img  width="400" align="right" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 💫 About Me:
+
 Farhat Shaikh
+
 Hi! I’m Farhat, a Master’s student in Data Science at Arizona State University, with a B.Tech in Artificial Intelligence and Data Science from the University of Mumbai. I’m passionate about solving real-world problems through data-driven insights, advanced analytics, and AI-powered solutions.
 
 I’ve worked on a variety of projects involving machine learning, data visualization, web development, and natural language processing. My experience spans across tools and technologies such as Python, R, Tableau, PoerBI, NLP, Data Mining, Data Visualization, TensorFlow, PyTorch, Flask, and React. I’ve led and contributed to projects that range from AI-based web applications to data mining, spatial queries, and real-time data visualization dashboards.
